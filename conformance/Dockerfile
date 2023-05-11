@@ -1,0 +1,1 @@
+FROM registry.k8s.io/conformance:v1.27.0

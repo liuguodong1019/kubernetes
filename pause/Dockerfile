@@ -1,0 +1,1 @@
+FROM registry.aliyuncs.com/google_containers/pause:v1.27.0
